@@ -34,11 +34,11 @@ pip install torch transformers scikit-learn pandas numpy matplotlib
 ## How to Use
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/vampokala/MovieReviews_with_Transformers.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd your-repo-name
+   cd MovieReviews_with_Transformers
    ```
 3. **Launch Jupyter Notebook**:
    ```bash
